@@ -1,3 +1,4 @@
+// PROMPT: "Create a GameState data class
 package com.example.wordle.model
 
 data class GameState(

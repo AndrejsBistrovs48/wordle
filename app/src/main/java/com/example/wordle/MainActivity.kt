@@ -1,3 +1,8 @@
+// PROMPT: "Create MainActivity that:
+// - Handles keyboard button clicks
+// - Observes game state updates
+// - Shows win/lose dialogs (non-transparent)
+// - Has reset functionality"
 package com.example.wordle
 
 import android.graphics.Color

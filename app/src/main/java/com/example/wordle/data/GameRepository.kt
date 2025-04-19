@@ -1,3 +1,10 @@
+// PROMPT: "Create a GameRepository that:
+// - Uses WordDataSource
+// - Manages game state (target word, guesses)
+// - Validates word submissions
+// - Calculates letter states (correct/position/incorrect)
+// - Updates keyboard state
+// - Handles game reset
 package com.example.wordle.data
 
 import com.example.wordle.model.GameState
