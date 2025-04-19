@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- PROMPT: "Create circular shape drawable
+- Oval shape
+ -->
 <shape xmlns:android="http://schemas.android.com/apk/res/android"
     android:shape="oval">
     <stroke android:width="2dp" android:color="#FF0000"/>
