@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3A3A3C</color>
+    <color name="colorPrimaryDark">#121213</color>
+
+    <!-- Letter states -->
+    <color name="correct">#538D4E</color>       <!-- Green for correct letters -->
+    <color name="wrong_position">#B59F3B</color> <!-- Yellow for wrong position -->
+    <color name="incorrect">#3A3A3C</color>     <!-- Gray for incorrect letters -->
+    <color name="unknown">#818384</color>       <!-- Light gray for empty cells -->
+
+    <!-- Text colors -->
+    <color name="text_light">#FFFFFF</color>    <!-- White text -->
+    <color name="text_dark">#000000</color>     <!-- Black text -->
+
+    <!-- Keyboard colors -->
+    <color name="keyboard_bg">#D3D6DA</color>   <!-- Light gray keyboard -->
+    <color name="key_color">#FFFFFF</color>
+    <color name="grid_border">#FF0000</color>
+</resources>
